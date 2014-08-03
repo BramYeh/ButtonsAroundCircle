@@ -1,4 +1,4 @@
-ButtonsAroundCircle
+Color Selection Buttons Around a Circle
 ===================
 
-Simulate Multi Buttons Around by A Circle
+Try to Simulate Multi Buttons With Different Color Around by A Circle for User to Pick Up
