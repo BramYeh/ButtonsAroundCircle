@@ -1,4 +1,4 @@
-Deprecated
+@Deprecated
 Color Selection Buttons Around a Circle
 ===================
 
